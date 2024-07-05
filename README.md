@@ -5,7 +5,7 @@ Research entitled "Investigating the Perception of Brazilian Software Developers
 The objective of this research is to investigate the level of knowledge and understanding that Brazilian software developers have regarding data privacy when using Large Language Models (LLMs) in their professional activities.
 
 ### Zenodo Repositories:
-- English: https://zenodo.org/records/12538512}
+- English: https://zenodo.org/records/12538512
 - Portuguese: https://zenodo.org/records/12594274
 
 ### Research Questions (RQ):
