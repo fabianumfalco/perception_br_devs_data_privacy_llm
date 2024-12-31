@@ -2,7 +2,7 @@
 
 
 [![DOI:10.1145/3701625.3701675](https://zenodo.org/badge/DOI/10.1145/3701625.3701675.svg)](https://doi.org/10.1145/3701625.3701675)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=Jupyter)](https://github.com/fabianumfalco/perception_br_devs_data_privacy_llm/blob/main/data_analysis_survey.ipynb)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/fabianumfalco/perception_br_devs_data_privacy_llm/blob/main/data_analysis_survey.ipynb)
 
 
 ### Abstract
